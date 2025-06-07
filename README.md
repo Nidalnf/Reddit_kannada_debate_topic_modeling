@@ -1,6 +1,6 @@
 **Reddit Topic Modeling: Kannada Language Debate (June 2025)**
 
-This project performs topic modeling on Reddit comments related to a recent and widely discussed incident in Bangalore, India involving a female SBI manager who refused to speak in Kannada. The video of the incident went viral and led to a heated public debate about language, identity, and nationalism — especially within the context of South India’s resistance to Hindi imposition.
+This project performs topic modeling on Reddit comments related to a recent and widely discussed incident in Bangalore, India involving a female SBI manager who refused to speak in Kannada. The video of the incident went viral and led to a heated public debate about language, identity, and nationalism, especially within the context of South India’s resistance to Hindi imposition.
 
 Using Reddit as a platform for analysis provides a window into non main-stream socila-media public reactions with this specific post attracting over 600 comments, making it a rich source for natural language understanding.
 
