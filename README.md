@@ -38,22 +38,30 @@ The model identified 4 distinct themes in the comments. Here is a breakdown:
 
 Topic 1
 Top keywords: language, time, people, come, kannada
+
 Interpretation: Regional Language Assertion
+
 Comments here reflect frustration that outsiders (**people**) **come** to Karnataka but don’t respect **Kannada**, possibly directing towards stronger regional linguistic pride.
 
 Topic 2
 Top keywords: language, people, state, know, dont
 Interpretation: State Identity and Public Sentiment
+
+
 Emotions around regional (**State**) belonging, **know**ing language rights, and perceived disrespect (**dont**). Unlike Topic 1 which is about asserting Kannada in general, Topic 2 reflects discussions around civic responsibilty (people), ignorance, and feelings of exclusion (**dont**)
 
 Topic 3
 Top keywords: language, hindi, speak, english, local
+
 Interpretation: Language Politics – Hindi vs English
+
 Discussions over which language should be spoken (**Hindi and English**) and by whom, touching upon linguistic politics — language choice as identity and resistance. This topic touches on power, privilege, and resistance by highlighting the pressure of choosing between dominant languages like Hindi and English, while defending the legitimacy of **local** languages. The term local itself has traditionally had great discursive significance in distinguishing between local and national. 
 
 Topic 4
 Top keywords: language, english, north, people, india
+
 Interpretation: North-South Language Divide
+
 Critique of national language politics, highlighting the divisive nature of Northern Southern linguistic dentities, and questions on cultural marginalization of the South.
 
 Each topic reveals a facet of the broader public mood — from linguistic pride to frustration with systemic marginalization.
