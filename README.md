@@ -45,6 +45,8 @@ Comments here reflect frustration that outsiders (**people**) **come** to Karnat
 
 **Topic 2**
 Top keywords: language, people, state, know, dont
+
+
 Interpretation: State Identity and Public Sentiment
 
 
